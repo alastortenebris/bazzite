@@ -448,7 +448,6 @@ RUN --mount=type=cache,dst=/var/cache \
             fcitx5-chinese-addons \
             fcitx5-hangul \
             kcm-fcitx5 \
-            gnome-disk-utility \
             kio-extras && \
         dnf5 -y remove \
             plasma-welcome \
