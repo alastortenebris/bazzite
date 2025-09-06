@@ -266,6 +266,8 @@ RUN --mount=type=cache,dst=/var/cache \
         cascadia-code-nf-fonts \
         fonts-tweak-tool \
         hardinfo2 \
+        sysbench \
+        iperf3 \
         sunshine \
         python3-pip \
         libadwaita \
